@@ -1,3 +1,9 @@
 .App {
   text-align: center;
 }
+
+.main {
+  display: flex;
+  height: 90vh;
+  background-color: yellow;
+}

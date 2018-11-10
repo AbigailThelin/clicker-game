@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Games from './Games';
-import '../styles/trumpClicker.css';
+import '../styles/clicker.css';
 
 class TrumpClicker extends Component {
     componentDidMount() {

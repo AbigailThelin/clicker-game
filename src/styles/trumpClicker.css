@@ -3,3 +3,7 @@
     height: 50vh;
     background-color: orange;
 }
+
+.main {
+    display: flex;
+}

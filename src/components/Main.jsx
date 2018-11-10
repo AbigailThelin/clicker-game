@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react'
+import React, { Component } from 'react'
 
 import Clicker from './Clicker'
 import LevelUp from './LevelUp'
@@ -10,10 +10,10 @@ class Main extends Component {
     }
     render() {
         return (
-            <Fragment>
+            <div className='main'>
                 <Clicker/>
                 <LevelUp/>
-            </Fragment>
+            </div>
         )
     }
 }
